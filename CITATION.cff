@@ -1,19 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite both the manuscript and this repository."
 title: "Analysis code: Baseline BMI category and incident treated hypertension in Australian men"
-abstract: >
-  R analysis pipeline for a prospective cohort study of baseline body mass index
-  category and incident treated hypertension in Australian men, using the Ten to
-  Men Australian Longitudinal Study on Male Health linked with Pharmaceutical
-  Benefits Scheme and Medicare Benefits Schedule records.
+abstract: "R analysis pipeline for a prospective cohort study of baseline body mass index category and incident treated hypertension in Australian men, using the Ten to Men Australian Longitudinal Study on Male Health linked with Pharmaceutical Benefits Scheme and Medicare Benefits Schedule records."
 type: software
-doi: 10.5281/zenodo.20471416
 authors:
-  - given-names: "Eben"
-    family-names: "Afrifa-Yamoah"
-    # orcid: "https://orcid.org/0000-0003-1741-9249"
-    # affiliation: "Edith Cowan University"
-    # https://doi.org/10.5281/zenodo.20471416
+  - family-names: "Afrifa-Yamoah"
+    given-names: "Eben"
 license: MIT
 keywords:
   - hypertension
@@ -25,13 +17,11 @@ keywords:
   - R
 version: "1.0.0"
 date-released: "2026-05-28"
-references:
-  - type: article
-    title: "Baseline Body Mass Index Category and Incident Treated Hypertension in Australian Men: A Linked Prospective Cohort Study Using PBS/MBS Data"
-    authors:
-      - given-names: "Eben
-        family-names: "Afrifa-Yamoah"
-    journal: "Chronic Diseases and Translational Medicine"
-    year: 2026
-    notes: "Manuscript under revision; update on acceptance."
-"Add Zenodo DOI to citation metadata"
+preferred-citation:
+  type: article
+  title: "Baseline Body Mass Index Category and Incident Treated Hypertension in Australian Men: A Linked Prospective Cohort Study Using PBS/MBS Data"
+  authors:
+    - family-names: "Afrifa-Yamoah"
+      given-names: "Eben"
+  journal: "Chronic Diseases and Translational Medicine"
+  year: 2026
