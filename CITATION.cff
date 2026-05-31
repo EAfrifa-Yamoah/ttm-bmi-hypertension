@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the manuscript and this repository."
+title: "Analysis code: Baseline BMI category and incident treated hypertension in Australian men"
+abstract: >
+  R analysis pipeline for a prospective cohort study of baseline body mass index
+  category and incident treated hypertension in Australian men, using the Ten to
+  Men Australian Longitudinal Study on Male Health linked with Pharmaceutical
+  Benefits Scheme and Medicare Benefits Schedule records.
+type: software
+authors:
+  - given-names: "[First]"
+    family-names: "[Last]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "[Institution]"
+license: MIT
+keywords:
+  - hypertension
+  - body mass index
+  - survival analysis
+  - decision curve analysis
+  - Ten to Men
+  - Pharmaceutical Benefits Scheme
+  - R
+version: "1.0.0"
+date-released: "2026-05-28"
+references:
+  - type: article
+    title: "Baseline Body Mass Index Category and Incident Treated Hypertension in Australian Men: A Linked Prospective Cohort Study Using PBS/MBS Data"
+    authors:
+      - given-names: "[First]"
+        family-names: "[Last]"
+    journal: "Chronic Diseases and Translational Medicine"
+    year: 2026
+    notes: "Manuscript under revision; update on acceptance."
